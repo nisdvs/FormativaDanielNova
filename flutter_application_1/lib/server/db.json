@@ -1,0 +1,58 @@
+{
+  "AvaliaçãoSalão": [
+    {
+      "nome": "Alanis",
+      "Servico": "Maquiagem",
+      "id": "a855"
+    },
+    {
+      "id": "bb92",
+      "servico": "Cabelo"
+    },
+    {
+      "id": "822b",
+      "nome": "Felipe",
+      "servico": "Cabelo"
+    },
+    {
+      "id": "c91b",
+      "nome": "Alanis",
+      "servico": "Cabelo"
+    },
+    {
+      "id": "c195",
+      "nome": "Alanis",
+      "servico": "Unha"
+    },
+    {
+      "id": "dd37",
+      "nome": "Luiz",
+      "servico": "Corte"
+    },
+    {
+      "id": "5461",
+      "nome": "Felipe",
+      "servico": "Cabelo"
+    },
+    {
+      "id": "9ec3",
+      "nome": "Ana",
+      "servico": "Corte de cabelo"
+    },
+    {
+      "id": "7eba",
+      "nome": "Ana",
+      "servico": "UNha"
+    },
+    {
+      "id": "4595",
+      "nome": "ana",
+      "servico": "cilios"
+    },
+    {
+      "id": "5796",
+      "nome": "ana",
+      "servico": "cilios"
+    }
+  ]
+}
